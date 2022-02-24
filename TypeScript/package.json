@@ -1,0 +1,14 @@
+{
+	"name": "rec06",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"author": "CMU",
+	"license": "ISC",
+	"scripts": {
+		"compile": "tsc"
+	},
+	"devDependencies": {
+		"typescript": "^4.3.5"
+	}
+}
